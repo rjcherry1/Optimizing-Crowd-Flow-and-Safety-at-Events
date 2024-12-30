@@ -1,0 +1,1 @@
+Large-scale events, such as concerts, sports games, and festivals, face challenges in managing crowd flow, ensuring safety, and optimizing resource allocation. This project aims to leverage data analytics to understand crowd dynamics, predict potential congestion, and propose actionable strategies for efficient crowd management.
